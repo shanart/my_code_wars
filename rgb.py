@@ -19,8 +19,9 @@ https://www.codewars.com/kata/513e08acc600c94f01000001/solutions/python
 
 """
 
-print(rgb(0, 0, 0))
-print(rgb(1, 2, 3))
-print(rgb(255, 255, 255))
-print(rgb(254, 253, 252))
-print(rgb(-20, 275, 125))
+if __name__ == "__main__":
+    print(rgb(0, 0, 0))
+    print(rgb(1, 2, 3))
+    print(rgb(255, 255, 255))
+    print(rgb(254, 253, 252))
+    print(rgb(-20, 275, 125))
