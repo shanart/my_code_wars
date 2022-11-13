@@ -16,4 +16,3 @@ if __name__ == "__main__":
     print(one(arr, equals_9))
     print(one(arr, less_than_9))
     print(one(arr, greater_than_9))
-x
